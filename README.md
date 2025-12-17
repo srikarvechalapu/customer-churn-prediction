@@ -216,6 +216,6 @@ This project is currently maintained by Akshita Mary John. It was initially deve
 
 Akshita is a Product Owner with 3+ years of experience, skilled in driving product development and translating business needs into actionable features. Her technical skills include Pandas, NumPy, and Matplotlib, which are applied in data analysis and machine learning projects such as this one.
 
-- **Email**: a.john1009@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/akshita-mary-john-35542a12a/
-- **GitHub Profile**: (No URL provided)
+- **Email**: vsrikar2025@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/srikarvechalapu/
+- **GitHub Profile**: https://github.com/srikarvechalapu
